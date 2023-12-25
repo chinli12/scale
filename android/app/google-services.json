@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455464277028",
+    "project_id": "scale-20criv",
+    "storage_bucket": "scale-20criv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455464277028:android:297774aecfa583b632b4b1",
+        "android_client_info": {
+          "package_name": "com.mycompany.scale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvXx9uUVUZ9urP2Ckw9MBeVeOmZeYipzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

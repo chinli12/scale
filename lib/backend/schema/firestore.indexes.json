@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Course",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "completed",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Enrollment",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    }
+  ]
+}
